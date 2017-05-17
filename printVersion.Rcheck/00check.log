@@ -1,0 +1,9 @@
+* using log directory ‘/Users/sebas/git_projects/Exercice_7/printVersion.Rcheck’
+* using R version 3.4.0 (2017-04-21)
+* using platform: x86_64-apple-darwin15.6.0 (64-bit)
+* using session charset: UTF-8
+* checking for file ‘printVersion/DESCRIPTION’ ... ERROR
+Required fields missing or empty:
+  ‘Author’ ‘Maintainer’
+* DONE
+Status: 1 ERROR
