@@ -2,17 +2,13 @@
 % Please edit documentation in R/printVersion.R
 \name{printVersion}
 \alias{printVersion}
-\title{Linear model}
+\title{printVersion}
 \usage{
 printVersion()
 }
 \arguments{
-\item{formula}{formula to be fitted}
 
-\item{data}{data}
-
-\item{...}{other arguments}
 }
 \description{
-This function estimates model parameters in a linear regression model
+Print name package and authorship
 }

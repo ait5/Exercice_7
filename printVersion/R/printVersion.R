@@ -1,9 +1,7 @@
-#' Linear model
+#' printVersion
 #'
-#' This function estimates model parameters in a linear regression model
-#' @param formula formula to be fitted
-#' @param data data
-#' @param ... other arguments
+#' Print name package and authorship
+
 #' @export
 
 printVersion <- function(){
